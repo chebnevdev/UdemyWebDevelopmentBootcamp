@@ -1,0 +1,18 @@
+body {
+  background-color: #ecfcff;
+  letter-spacing: 1px;
+}
+h1 {
+  color: #3e64ff;
+  letter-spacing: 3px;
+}
+h3 {
+  color: #5edfff;
+  letter-spacing: 2px;
+}
+hr {
+  border-style: dotted none none;
+  border-color: #b2fcff;
+  border-width: 8px;
+  width: 5%;
+}
