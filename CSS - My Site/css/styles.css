@@ -55,7 +55,7 @@ hr {
 }
 
 .middle-container {
-  margin-top: 50px;
+  margin-top: 80px;
 }
 
 .profile {
@@ -96,7 +96,7 @@ hr {
   -webkit-border-radius: 10;
   -moz-border-radius: 10;
   border-radius: 10px;
-  color: #ffffff;
+  color: #eaf6f6;
   padding: 10px 20px;
   text-decoration: none;
 }
@@ -123,11 +123,15 @@ hr {
   font-weight: bold;
 }
 
+.footer-link:hover {
+  color: #eaf6f6;
+}
+
 .copyright {
-  color: #ffffff;
+  color: #eaf6f6;
   font-weight: normal;
   margin-top: 35px;
-  font-size: 0.7rem;
+  font-size: 0.75rem;
 }
 
 .top-cloud {
@@ -138,6 +142,7 @@ hr {
 
 .profile-image {
   border-radius: 50%;
+  width: 20%;
 }
 
 .bottom-cloud {
